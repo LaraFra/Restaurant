@@ -85,6 +85,27 @@ let productsNumber = [
         price:  8.91 ,
         index: 0 ,
         class: "pep"
+    },
+    {
+        img: "imgs/potato.png",
+        name: "potato pizza",
+        price:  11 ,
+        index: 0 ,
+        class: "pot"
+    },
+    {
+        img: "imgs/salami.png",
+        name: "salami pizza",
+        price:  2.33 ,
+        index: 0 ,
+        class: "sala"
+    }  ,
+    {
+        img: "imgs/shrimp.png",
+        name: "shrimp pizza",
+        price:  18.56 ,
+        index: 0 ,
+        class: "shr"
     } 
 ] ;
 
